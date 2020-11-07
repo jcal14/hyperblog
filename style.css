@@ -1,5 +1,5 @@
 body {
-    color: #262626;
+    color: red;
     text-align: center;
     font-family: montserrat, arial;
     margin: 0;
@@ -22,7 +22,7 @@ body {
 
 p {
     
-    color: white;
+    color: #262626;
 }
 
 #cabecera {
