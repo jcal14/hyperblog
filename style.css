@@ -12,6 +12,8 @@ body {
     text-align: left;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.3);
     margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 25px 25px 25px 25px;
 }
 
 .container h1 {
@@ -32,6 +34,7 @@ p {
     font-weight: bold;
     margin: 0;
     padding: 1em;
+    border-radius: 25px 25px 0px 0px;
 }
 
 #cabecera #tagline {
@@ -52,6 +55,7 @@ p {
     transition-duration: 0.2s;
     transition-delay: ease-in-out;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    border-radius: 25px;
 }
 
 .button:hover {
