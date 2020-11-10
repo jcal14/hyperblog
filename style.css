@@ -61,3 +61,8 @@ p {
 .button:hover {
     background-color: rgb(236, 78, 51);
 }
+
+.logo {
+    padding: 10px;
+    margin-bottom: -10px;
+}
